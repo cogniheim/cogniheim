@@ -1,10 +1,22 @@
-# Cogniheim
+<p align="center">
+  <img src="./banner.png" alt="Cogniheim — Technology & Product Studio" width="100%">
+</p>
 
-### Technology & Product Studio
+<h1 align="center">Cogniheim</h1>
 
-**Building ideas into modern digital products.**
+<p align="center">
+  <strong>Technology & Product Studio</strong>
+</p>
 
-Cogniheim is a technology and product studio focused on designing, building, and evolving modern websites, software, SaaS products, and digital experiences.
+<p align="center">
+  Building ideas into modern digital products.
+</p>
+
+---
+
+## About
+
+**Cogniheim** is a technology and product studio focused on designing, building, and evolving modern websites, software, SaaS products, and digital experiences.
 
 We combine thoughtful design with practical engineering to turn ideas into reliable, scalable products.
 
@@ -60,17 +72,19 @@ We build practical software products that solve specific problems.
 
 ## Our Approach
 
-```text
-        THINK
-          ↓
-        DESIGN
-          ↓
-        BUILD
-          ↓
-       EVOLVE
-````
+<p align="center">
 
-We believe good software isn't just about writing code.
+**THINK**  
+↓  
+**DESIGN**  
+↓  
+**BUILD**  
+↓  
+**EVOLVE**
+
+</p>
+
+Good software isn't just about writing code.
 
 It is about understanding the problem, designing the right experience, building reliable technology, and continuously improving the product.
 
@@ -102,27 +116,27 @@ Our technology choices are driven by the requirements of each product rather tha
 
 ## What We Care About
 
-* **Good UX** — Interfaces should be intuitive and purposeful.
-* **Clean Engineering** — Code should be understandable and maintainable.
-* **Performance** — Fast experiences matter.
-* **Accessibility** — Products should work for as many people as possible.
-* **Scalability** — Build for today's needs without blocking tomorrow's growth.
-* **Simplicity** — Avoid unnecessary complexity.
-* **Continuous Improvement** — Every product can become better.
+- **Good UX** — Interfaces should be intuitive and purposeful.
+- **Clean Engineering** — Code should be understandable and maintainable.
+- **Performance** — Fast experiences matter.
+- **Accessibility** — Products should work for as many people as possible.
+- **Scalability** — Build for today's needs without blocking tomorrow's growth.
+- **Simplicity** — Avoid unnecessary complexity.
+- **Continuous Improvement** — Every product can become better.
 
 ---
 
 ## Explore Cogniheim
 
-🌐 **Website**
-[https://cogniheim.in](https://cogniheim.in)
+🌐 **Website**  
+https://cogniheim.in
 
-💻 **GitHub**
-[https://github.com/cogniheim](https://github.com/cogniheim)
+💻 **GitHub**  
+https://github.com/cogniheim
 
-👤 **Founder**
-S. Mohamed Sameer
-[https://mohamedsameer.tech](https://mohamedsameer.tech)
+👤 **Founder**  
+S. Mohamed Sameer  
+https://mohamedsameer.tech
 
 ---
 
@@ -132,7 +146,7 @@ Have an idea, an existing website that needs a redesign, or a product that needs
 
 **Let's turn it into something real.**
 
-→ [Start a Project](https://cogniheim.in)
+[Start a Project](https://cogniheim.in)
 
 ---
 
