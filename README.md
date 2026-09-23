@@ -144,12 +144,3 @@ Have an idea, an existing website that needs a redesign, or a product that needs
 <p align="center">
   Think · Design · Build · Evolve
 </p>
-```
-
-### One change I'd recommend
-
-For the actual GitHub profile, I'd **avoid putting too many technology names in the opening section**. The strongest identity should remain:
-
-> **Cogniheim — Technology & Product Studio**
-
-Then let the README establish that you do **websites, redesigns, WordPress migrations, custom CMS, software, and SaaS**. This makes the company profile feel more like a product studio than a generic web-development agency.
